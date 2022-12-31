@@ -1,0 +1,14 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+table thead th {
+    background: white;
+    position: sticky;
+    top: 0;
+}
+
+table tbody td {
+    padding: 0.2rem 0;
+}

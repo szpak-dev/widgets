@@ -1,0 +1,19 @@
+.input {
+    position: relative;
+    align-items: center;
+}
+
+.input > input, .input > i {
+    font-size: x-large;
+}
+
+.input .i {
+    position: absolute;
+    right: 1rem;
+}
+
+.input > input:placeholder-shown + .i {
+    display: none;
+}
+
+

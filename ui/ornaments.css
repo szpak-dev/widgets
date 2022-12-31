@@ -1,0 +1,4 @@
+.i:after {
+    content: "\2717";
+    cursor: pointer;
+}
